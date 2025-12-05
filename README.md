@@ -18,5 +18,5 @@ Right now I’m expanding my skills in Backend, DevOps, and AI so I can grow int
 # 📫 How to reach me
 
 - Email: *kantinan.wichitpan@gmail.com*
-- GitHub: [@anothermix](https://github.com/anothermix)
-- Portfolio / LinkedIn / X / Facebook link
+- GitHub: [anothermix](https://github.com/anothermix)
+- LinkedIn: [Kantinan Wichitpan](https://www.linkedin.com/in/kantinan-wichitpan-8848a7239/)
