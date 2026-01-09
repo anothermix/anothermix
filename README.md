@@ -1,10 +1,11 @@
 # 👋 Hello everyone
 
-I'm **Kantinan Wichitpan** (Mix) — a **Frontend Software Engineer** at Customix.  
+I'm **Kantinan Wichitpan** (Mix) — a **Software Engineer Frontend**  
 
-I’m a Software Engineering Frontend enjoys building things end-to-end from UX/UI design all the way to coding for the web and mobile apps.
+I’m developer enjoys building things end-to-end full frontend from Analyst -> UX/UI design -> Development for the **Web App** and **Mobile App**.
 I love exploring new tech stacks and playing with tools that make development more fun and efficient, especially AI that helps reduce repetitive work and speed up projects.
-Right now I’m expanding my skills in Backend, DevOps, and AI so I can grow into a solid Full-Stack Engineer. ❄️💻
+
+Right now I’m expanding my skills in Backend, DevOps, and AI so I can grow into a solid Full Stack Engineer. ❄️💻
 
 # 🛠 Tech stacks
 
