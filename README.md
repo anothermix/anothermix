@@ -13,9 +13,10 @@ Right now I’m expanding my skills in Backend, DevOps, and AI so I can grow int
 - **Mobile:** Flutter, React Native
 - **Styling:** Tailwind, MUI, SCSS, CSS Modules
 - **Design:** Figma
+- **Lowcode:** Oracle APEX, Wordpress
 - **Others (learning):** Node.js, Docker, CI/CD
 
-# 📫 How to reach me
+# 📫 If you want to contact me 
 
 - Email: *kantinan.wichitpan@gmail.com*
 - GitHub: [anothermix](https://github.com/anothermix)
